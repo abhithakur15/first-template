@@ -1,0 +1,117 @@
+*{
+	margin:0;
+	padding:0;
+}
+ul,li{list-style:none;
+}
+	
+	ul{
+		display:flex;
+		
+	}
+	
+a {
+    
+text-decoration: none;
+color:white;
+padding: 0px 30px 0px 20px;
+    line-height: 36px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.topnav{
+	background-color:black;
+	    height: 40px;
+}
+.heading1{
+	text-align:center;
+	    font-size: 50px;
+}
+.para1{
+       font-size: larger;
+    font-family: cursive;
+	    text-align: -webkit-center;
+}
+.heading2{
+	text-align:center;
+	text-align: center;
+    font-size: 19px;
+	    color: blue;
+	   
+}
+.one,.two{
+	width:50%;
+	float:right;
+	    text-align: center;
+		
+}
+
+
+a:hover{
+	background-color:gray;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa {
+    padding: 13px 16px 15px 9px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.sanfran,.paris{width:33%;
+float:right;
+	
+}
+.newyork{width:34%;
+float:right;
+	
+}
+.placename{font-size: x-large;}
+.date{font-size: 20px;}
+.placefun{font-size: large;
+   font-style: revert;}
+   .newyork{background-color:#FFC0CB;}
+   .paris,.sanfran{background-color:  #FFEFD5;}
+   .name,.email,.text{    width: 254px;
+   height:20px;
+   border-radius:10px;
+       border-color: aqua;}
+  
+  .btn{ border-radius:5px;
+   height: 39px;
+    width: 102px;
+    border-radius: 10px;
+   background-color: aqua;}
+   button{
+	
+   height: 39px;
+    width: 108px;
+    border-radius: 10px;
+   background-color: red; 
+   color:white;
+       font-size: 16px;
+    font-family: monospace;
+	margin-top: 22px
+
+   }
+ button:hover{
+	 background-color:black;
+ }
+   .fpagetext, .fpagetext1{
+	   color:white;
+   }
+   .box{padding: 0px 0px 0px 0px;
+  margin:-153px 0px 123px 578px;}
